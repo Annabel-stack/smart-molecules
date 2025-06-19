@@ -99,7 +99,7 @@ with st.sidebar:
     selected = option_menu(
         "Main Menu",
         ["Home", "Notes", "Flashcards", "Name It!", " Group Finder",
-         "Reaction Master", "Isomer Game", "Organic Boss Battle", "Leaderboard"],
+         "Reaction Master", "Isomer Game", "Boss Battle", "Leaderboard"],
         icons=["house", "book", "card-text", "pencil", "search", "lightning-charge", "shuffle","joystick", "trophy"],
         menu_icon="menu-app",
         default_index=0,
