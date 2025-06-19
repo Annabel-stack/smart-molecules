@@ -100,7 +100,7 @@ with st.sidebar:
         "Main Menu",
         ["Home", "Notes", "Flashcards", "Name It!", "Functional Group Finder",
          "Reaction Master", "Isomer Game", "Organic Boss Battle", "Leaderboard"],
-        icons=["house", "book", "bookmark", "pencil", "search", "reaction", "atom", "shuffle", "trophy"],
+        icons=["house", "book", "card-text", "pencil", "search", "lightning-charge", "shuffle","joystick", "trophy"],
         menu_icon="menu-app",
         default_index=0,
         styles={
