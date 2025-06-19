@@ -98,7 +98,7 @@ with st.sidebar:
 
     selected = option_menu(
         "Main Menu",
-        ["Home", "Notes", "Flashcards", "Name It!", "Functional Group Finder",
+        ["Home", "Notes", "Flashcards", "Name It!", " Group Finder",
          "Reaction Master", "Isomer Game", "Organic Boss Battle", "Leaderboard"],
         icons=["house", "book", "card-text", "pencil", "search", "lightning-charge", "shuffle","joystick", "trophy"],
         menu_icon="menu-app",
