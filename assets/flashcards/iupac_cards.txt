@@ -1,0 +1,14 @@
+Q: What does IUPAC stand for?
+A: International Union of Pure and Applied Chemistry
+
+Q: What is the suffix for a compound with an OH group?
+A: -ol (e.g., ethanol)
+
+Q: What is the IUPAC name for CH₄?
+A: Methane
+
+Q: What is the IUPAC name for CH₃CH₂OH?
+A: Ethanol
+
+Q: What is the parent chain for CH₃CH₂CH₃?
+A: Propane (3 carbons)

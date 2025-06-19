@@ -1,0 +1,14 @@
+Q: What are isomers?
+A: Compounds with the same molecular formula but different structures
+
+Q: What type of isomerism occurs in but-2-ene?
+A: Geometric (cis-trans) isomerism
+
+Q: Give an example of chain isomerism.
+A: Butane and methylpropane
+
+Q: What is functional group isomerism?
+A: Isomers with different functional groups (e.g., alcohol vs. ether)
+
+Q: What is optical isomerism?
+A: Molecules that are mirror images and cannot be superimposed

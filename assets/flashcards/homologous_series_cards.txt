@@ -1,0 +1,14 @@
+Q: What is a homologous series?
+A: A group of compounds with the same functional group and general formula
+
+Q: What is the general formula for alkanes?
+A: CnH2n+2
+
+Q: How do members of a homologous series differ?
+A: By a CH₂ unit
+
+Q: Do members of a homologous series have similar chemical properties?
+A: Yes, they react similarly
+
+Q: What is the next member after ethane in the alkane series?
+A: Propane (C₃H₈)
